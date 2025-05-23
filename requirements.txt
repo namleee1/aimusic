@@ -1,7 +1,7 @@
+note-seq
 numpy
-pandas
-matplotlib
-streamlit
-keras
 scikit-learn
-openpyxl
+tensorflow
+keras
+music21
+streamlit
